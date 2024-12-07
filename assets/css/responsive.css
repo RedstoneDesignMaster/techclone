@@ -1,0 +1,528 @@
+@media only screen and (max-width:1160px) {
+  .rot{display:none !important;}
+    .header-logo {
+        position: relative;
+        padding-left: 20px
+    }
+    .menu-header li {
+        float: left;
+        list-style: none;
+        font-size: 14px;
+        padding: 0 13px 0 0
+    }
+    .header-right ul.main-nav-right li a {
+        color: #015876;
+        font-size: 12px;
+        font-weight: 700;
+        border: 2px solid;
+        padding: 10px 5px;
+        border-radius: 10px;
+        margin: 0 28px
+    }
+    .tablet-form {
+        width: 90%;
+        float: none
+    }
+    .box h1 {
+        color: #06afd0;
+        font-size: 30px;
+        font-weight: 700
+    }
+    .followuson h4 {
+        font-size: 20px
+    }
+    .tab-form {
+        background: url(../images/frameTablet-new.png);
+        height: 408px;
+        background-repeat: no-repeat;
+        width: 58%;
+        margin: 5px 20px 0 0;
+        padding: 30px;
+        background-size: 100%
+    }
+    .mobile-call {
+        height: 433px;
+        width: 28%;
+        background: url(../images/mobile.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        top: 0
+    }
+    .tab-form .fc {
+        height: 35px;
+        margin: 0 0;
+        border: 1px solid #e2c4c8;
+        color: #e2c4c8
+    }
+    .head h1 {
+        line-height: 40px;
+        font-size: 40px
+    }
+    section.portfolio_sec h2 {
+        font-size: 35px
+    }
+    .count h1 {
+        font-size: 35px
+    }
+    .count-inner span {
+        font-size: 35px
+    }
+    .banner-text h1 {
+        font-size: 40px
+    }
+    .service-txt p {
+        margin-top: 80px
+    }
+    .service-card-btn {
+        padding: 10px 8px
+    }
+    section.banner-2 {
+        background: url(../images/banner-2.png);
+        height: 170px;
+        padding: 30px 0
+    }
+    .box h1 {
+        color: #06afd0;
+        font-size: 25px;
+        font-weight: 700
+    }
+    .text-testimonial h1 {
+        font-size: 35px
+    }
+    section.testimonial {
+        background: url(../images/black-bar.jpg);
+        height: 310px
+    }
+    .view-website-app-section .website-app-abs h2 {
+        font-size: 25px;
+        font-family: space_groteskbold
+    }
+    .workedwith-us-bg .workedwith-us {
+        padding: 5px 15px
+    }
+    .workedwith-us-bg form.example input[type=text] {
+        width: 70%
+    }
+    section.prograss-bar {
+        padding: 0
+    }
+    .head {
+        text-align: center;
+        width: 100%;
+        padding: 10px 0
+    }
+    .website-app-abs {
+        padding-top: 0
+    }
+    .mobile-call {
+        display: none
+    }
+    .btn-new {
+        display: none
+    }
+    .tab-form {
+        background: url(../images/frameTablet-new.png);
+        height: 408px;
+        background-repeat: no-repeat;
+        width: 84%;
+        margin: 5px 5px 0 0;
+        padding: 30px;
+        background-size: 100%
+    }
+    .reach-out-section .reach-out-abs h2 {
+        font-family: space_groteskbold;
+        font-size: 30px
+    }
+}
+@media only screen and (max-width:991px) {
+    .mobile-menu {
+        display: block
+    }
+}
+@media (max-width:769px) {
+    .nav-menu-hide {
+        display: none
+    }
+    .bestselling-mt {
+        margin-top: 400px
+    }
+    .pricing-package-item {
+        width: 390px
+    }
+    .pricing-header h2 {
+        color: #000;
+        padding: 0 30px
+    }
+    .pricing-exclusive-package h1 {
+        font-size: 45px;
+        font-weight: 700
+    }
+    .pricing-myBox ul li a {
+        color: #fff;
+        font-size: 16px;
+        padding-left: 10px
+    }
+    .pricing-item ul li {
+        list-style: none;
+        font-size: 10px
+    }
+    .pricing-item {
+        width: 326px
+    }
+    .top-close-btn {
+        top: -946px
+    }
+    .portfolio-pop-up-header h6 {
+        padding: 4px
+    }
+    .tablet-form {
+        width: 100%;
+        float: none
+    }
+    .img-box img {
+        overflow: hidden;
+        height: 231px
+    }
+    .inner {
+        display: none
+    }
+    .tablet-form {
+        background-repeat: no-repeat;
+        padding: 13px 30px
+    }
+    .box-2 h5 {
+        font-size: 20px;
+        padding-bottom: 11px
+    }
+    .left-head h1 {
+        font-size: 21px
+    }
+    a.a-css {
+        padding: 12px 0;
+        margin: 7px 1px;
+        font-size: 15px
+    }
+    .inner-pic img {
+        width: 70px;
+        margin: 0 0 20px
+    }
+    .inner-pic h2 {
+        font-size: 25px;
+        margin: 0 0 12px
+    }
+    .inner-pic p {
+        font-size: 18px;
+        padding-bottom: 25px
+    }
+    .inner-pic a {
+        padding: 5px;
+        font-size: 14px;
+        margin: 10px 0 0
+    }
+    img.img-fluid.pull-right.xs-none {
+        width: 150px;
+        padding: 17px 0
+    }
+    .pull-right.right-mob-m {
+        text-align: center
+    }
+    section.testimonial {
+        background: url(../images/black-bar.jpg);
+        height: 100%
+    }
+    .footer {
+        background-color: #141414;
+        color: #fff;
+        padding: 15px 10px
+    }
+    img.android-mobile.animated.fadeInLeft.go {
+        width: 150px;
+        height: 100%
+    }
+    section.banner2 {
+        padding: 0 0
+    }
+    .banner-text2 {
+        padding: 30px 0 30px 0!important
+    }
+}
+@media (max-width:576px) {
+    .bestselling-mt {
+        margin-top: 5px
+    }
+    .pricing-package-item {
+        width: 285px
+    }
+    .pricing-header h2 {
+        color: #000;
+        padding: 0 55px;
+        font-size: 28px
+    }
+    .pricing-exclusive-package h1 {
+        font-size: 45px;
+        font-weight: 700
+    }
+    .pricing-myBox ul li a {
+        color: #fff;
+        font-size: 16px;
+        padding-left: 10px
+    }
+    .pricing-item ul li {
+        list-style: none;
+        font-size: 10px
+    }
+    .pricing-item {
+        width: 255px
+    }
+    .portfolio-pop-up-para p {
+        font-size: 14px;
+        padding: 15px 0 0 0
+    }
+    .portfolio-pop-up-btn1 a {
+        padding: 10px
+    }
+    .portfolio-pop-up-btn2 a {
+        padding: 8px
+    }
+    .portfolio-pop-up-header h6 {
+        padding: 8px 5px
+    }
+    .owl-carousel .owl-item img {
+        width: 100%!important
+    }
+    .portfolio-pop-up-header h6 {
+        padding: 4px;
+        font-size: 11px
+    }
+    .pricing-package {
+        display: none
+    }
+    .pricing-btm-btn1 a {
+        padding: 15px 20px;
+        font-size: 9px
+    }
+    .pricing-btm-btn2 a {
+        padding: 15px 30px;
+        font-size: 9px
+    }
+    .portfolio-popup-carousel img {
+        height: auto!important
+    }
+    .owl-carousel.portfolio-popup-carousel.owl-theme.owl-loaded.owl-drag {
+        height: 580px
+    }
+    section.banner-2 {
+        background: url(../images/banner-2.png);
+        height: auto;
+        padding: 30px 20px
+    }
+    .box {
+        padding: 20px 0;
+        transition: .5s
+    }
+    section.black {
+        background: #141414;
+        height: auto;
+        padding: 30px 20px
+    }
+    .creative-thought-section .package-brief-box {
+        margin: 10px
+    }
+    img.btn-view-arrow.img-fluid {
+        width: 120px!important
+    }
+    img.img-fluid.brands-slider-img {
+        width: 120px!important
+    }
+    section.tabs-section li {
+        text-align: center;
+        margin: 15px auto
+    }
+    section.tabs-section li a {
+        padding: 5px 10px
+    }
+    .head h1 {
+        font-size: 35px
+    }
+    .img-box {
+        text-align: center;
+        margin: 10px 0
+    }
+    .tab-form {
+        background: url(../images/frameTablet-new.png);
+        background-repeat: no-repeat;
+        width: 100%;
+        margin: 10px;
+        padding: 30px;
+        background-size: 100%
+    }
+    .workedwith-us-bg .workedwith-us-arrow:after {
+        width: 30px
+    }
+    .search-industry-bg .search-industry {
+        padding: 20px 20px 20px 20px
+    }
+    .slide-arrow .arrow.down.lock {
+        bottom: 35px
+    }
+    .search-industry-bg .slide-arrow:after {
+        content: "Expand";
+        position: absolute;
+        width: 80px;
+        height: 2px;
+        top: 158px;
+        left: 180px
+    }
+    .website-app-abs {
+        padding: 15px
+    }
+    .portfolio_box_main {
+        height: 100%;
+        align-items: start;
+        padding: 0 0 0
+    }
+    .PopUpModal_portfolio_intro_box {
+        padding-bottom: 10px
+    }
+    .PopUpContent_portfolio_inner h2 {
+        font-size: 30px
+    }
+    .PopUpContent_portfolio_inner p {
+        font-size: 14px
+    }
+    .PopUpContent_portfolio_inner .formPopup h3 {
+        font-size: 20px;
+        margin: 0
+    }
+    .PopUpContent_portfolio_inner {
+        position: absolute;
+        height: 100%;
+        padding: 20px 15px 0
+    }
+    .black-btn {
+        padding: 10px 14px;
+        margin: 3px 0 0 0
+    }
+    section.reach-out-section {
+        padding: 30px 0;
+        background: url(../images/background.png)
+    }
+    section.banner {
+        background: url(../images/bg.jpg);
+        height: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 120px 0 0 0
+    }
+    .mockimgsrc {
+    height: 100%;
+    }
+.loader {
+    display: none!important;
+}
+
+
+
+}
+@media (max-width:375px) {
+    .pricing-package-item {
+        width: 242px
+    }
+    .pricing-header h2 {
+        color: #000;
+        padding: 0 45px;
+        font-size: 28px
+    }
+    .pricing-exclusive-package h1 {
+        font-size: 45px;
+        font-weight: 700
+    }
+    .pricing-myBox ul li a {
+        color: #fff;
+        font-size: 16px;
+        padding-left: 10px
+    }
+    .pricing-item ul li {
+        list-style: none;
+        font-size: 10px
+    }
+    .pricing-item {
+        width: 223px
+    }
+    .pricing-btm-btn1 a {
+        padding: 10px 30px
+    }
+    .pricing-btm-btn2 a {
+        padding: 10px 10px
+    }
+    .portfolio-pop-up-header h6 {
+        padding: 4px;
+        font-size: 11px
+    }
+    .portfolio-pop-up-btn1 a {
+        padding: 10px;
+        font-size: 13px
+    }
+    .portfolio-pop-up-btn2 a {
+        padding: 8px;
+        font-size: 13px
+    }
+    .portfolio-popup-carousel img {
+        height: auto!important
+    }
+    .owl-carousel.portfolio-popup-carousel.owl-theme.owl-loaded.owl-drag {
+        height: 505px
+    }
+}
+@media (max-width:320px) {
+    .pricing-package-item {
+        width: 192px
+    }
+    .pricing-header h2 {
+        color: #000;
+        padding: 0 45px;
+        font-size: 28px
+    }
+    .pricing-exclusive-package h1 {
+        font-size: 45px;
+        font-weight: 700
+    }
+    .pricing-myBox ul li a {
+        color: #fff;
+        font-size: 14px;
+        padding-left: 10px
+    }
+    .pricing-item ul li {
+        list-style: none;
+        font-size: 10px
+    }
+    .pricing-item {
+        width: 190px
+    }
+    .portfolio-pop-up-btn1 a {
+        padding: 10px;
+        font-size: 10px
+    }
+    .portfolio-pop-up-btn2 a {
+        padding: 8px;
+        font-size: 10px
+    }
+    .portfolio-pop-up-header h6 {
+        padding: 4px;
+        font-size: 8px
+    }
+    .pricing-btm-btn1 a {
+        padding: 10px 10px;
+        font-size: 13px
+    }
+    .pricing-btm-btn2 a {
+        padding: 10px 10px;
+        font-size: 11px
+    }
+    .portfolio-popup-carousel img {
+        height: auto!important
+    }
+    .owl-carousel.portfolio-popup-carousel.owl-theme.owl-loaded.owl-drag {
+        height: 440px
+    }
+}
