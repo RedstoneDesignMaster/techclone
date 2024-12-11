@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/portfolio", "destination": "/portfolio.html" },
+    { "source": "/website", "destination": "/website.html" },
+    { "source": "/logo", "destination": "/logo.html" },
+    { "source": "/application", "destination": "/application.html" },
+    { "source": "/animation", "destination": "/animation.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    {
+      "source": "/digital-marketing",
+      "destination": "/digital-marketing.html"
+    },
+    { "source": "/e-commerce", "destination": "/e-commerce.html" },
+    { "source": "/hosting", "destination": "/hosting.html" },
+    { "source": "/smm", "destination": "/smm.html" },
+    { "source": "/packages", "destination": "/packages.html" },
+    { "source": "/Home", "destination": "/index-2.html" },
+    { "source": "/privacy-policy", "destination": "/privacy-policy.html" },
+    { "source": "/reviews", "destination": "/reviews.html" },
+    { "source": "/server-error", "destination": "/services.html" },
+    { "source": "/term-conditions", "destination": "/terms-conditions.html" }
+  ]
+}
